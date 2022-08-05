@@ -1,4 +1,4 @@
-# *The full PDF for this assigment is included*
+# *Profit Utilization for Internet Service*
 You were hired by a fictional internet provider called Blaze to compute yearly profits.  
 
 Customers pay fixed monthly fees. Blaze makes a profit when customers do not use all the 
