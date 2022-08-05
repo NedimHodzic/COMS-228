@@ -1,4 +1,4 @@
-# *The full PDF for this assignment is included*
+# *Sorting 2D Integer Points*
 In this project, you are asked to read an input set of 2D integer points in a coordinate plane.  
 
 The goal is to find the median coordinate point, whose 𝑥-coordinate is equal to the median of 
