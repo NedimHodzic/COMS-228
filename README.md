@@ -1,4 +1,4 @@
 # COMS-228
-This is a repository containing homework assignments from COM S 228 at Iowa State University
+This repository contains homework assignments from COM S 228: Introduction to Data Structures at Iowa State University, taken in my Sophomore year.
 
-PDF's for each assignment are included
+PDFs for each assignment are included.
